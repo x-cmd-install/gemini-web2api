@@ -78,12 +78,19 @@ def card_search_counts:
 # "Cannot index string with string 'days'" because `[.[].days]` blindly
 # tried `.days` on each value of the response object. Coerce non-arrays
 # to `[]`, and filter out entries whose `.days` isn't an array of ints.
+#
+# `(add // [])` must stay parenthesized: jq 1.7 binds `X // Y as $v | body`
+# differently from jq 1.8, and the unparenthesized form silently emitted the
+# flattened day array instead of the four sums — which then reached the
+# caller's `--argjson` as invalid JSON. GitHub runners ship jq 1.7.x, so this
+# is the version that matters in CI.
 def card_commit_counts:
     (if type == "array" then . else [] end) as $arr
     | [ $arr[]
         | select(type == "object" and (.days | type == "array"))
         | .days
-      ] | add // [] as $total
+      ] as $per_week
+    | (($per_week | add) // []) as $total
     | ($total | length) as $len
     | [
         ($total[$len -  30 :] // [] | add // 0),
