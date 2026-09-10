@@ -4,7 +4,7 @@
 
 Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 
-![gemini-web2api](https://repo.x-cmd.io/gemini-web2api.svg)
+![gemini-web2api](https://repo.x-cmd.io/gemini-web2api.svg?lang=zh)
 
 ## 安装
 
@@ -19,7 +19,7 @@ x install gemini-web2api
 
 ## 流行度
 
-- **Star**: 3,156 · **Fork**: 687 · **开放 issue**: 49 · **贡献者**: 16
+- **Star**: 3,162 · **Fork**: 689 · **开放 issue**: 49 · **贡献者**: 16
 
 ## 累计统计
 
@@ -29,9 +29,9 @@ x install gemini-web2api
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 2 | 7 | 2 | 4 | 2 |
-| 90d | 2026-06-12 | 0 | 15 | 7 | 25 | 5 | 23 |
-| 360d | 2025-09-15 | 0 | 20 | 7 | 44 | 5 | 49 |
+| 30d | 2026-08-11 | 0 | 2 | 7 | 2 | 4 | 0 |
+| 90d | 2026-06-12 | 0 | 15 | 7 | 25 | 5 | 0 |
+| 360d | 2025-09-15 | 0 | 20 | 7 | 44 | 5 | 0 |
 
 ## 代码规模
 
@@ -54,4 +54,4 @@ gemini-web2api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:18:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:06:50Z._
