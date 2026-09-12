@@ -31,7 +31,7 @@ Total: **4,317** lines of code across **17** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,168 · **Forks**: 693 · **Open issues**: 49 · **Contributors**: 16
+- **Stars**: 3,169 · **Forks**: 692 · **Open issues**: 49 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -41,12 +41,12 @@ Total: **4,317** lines of code across **17** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 2 | 7 | 2 | 4 | 2 |
-| last60d | 2026-07-13 | 0 | 12 | 7 | 13 | 5 | 19 |
-| 90d | 2026-06-13 | 0 | 15 | 7 | 24 | 5 | 23 |
-| last180d | 2026-03-15 | 0 | 20 | 7 | 44 | 5 | 49 |
-| 360d | 2025-09-16 | 0 | 20 | 7 | 44 | 5 | 49 |
-| last720d | 2024-09-21 | 0 | 20 | 7 | 44 | 5 | 59 |
+| 30d | 2026-08-13 | 0 | 1 | 7 | 2 | 4 | 2 |
+| last60d | 2026-07-14 | 0 | 12 | 7 | 12 | 5 | 19 |
+| 90d | 2026-06-14 | 0 | 15 | 7 | 24 | 5 | 23 |
+| last180d | 2026-03-16 | 0 | 20 | 7 | 44 | 5 | 49 |
+| 360d | 2025-09-17 | 0 | 20 | 7 | 44 | 5 | 49 |
+| last720d | 2024-09-22 | 0 | 20 | 7 | 44 | 5 | 59 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for gemini-web2api lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:41:35Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:17:34Z._
