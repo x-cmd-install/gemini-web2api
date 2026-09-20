@@ -4,7 +4,7 @@
 
 Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 
-![gemini-web2api](https://repo.x-cmd.io/gemini-web2api.svg?lang=zh)
+[![x-cmd/install — gemini-web2api Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gemini-web2api.svg?lang=zh)](https://x-cmd.com/install/gemini-web2api)
 
 ## 安装
 
@@ -31,22 +31,22 @@ x install gemini-web2api
 
 ## 流行度
 
-- **Star**: 3,268 · **Fork**: 708 · **开放 issue**: 51 · **贡献者**: 16
+- **Star**: 3,285 · **Fork**: 714 · **开放 issue**: 51 · **贡献者**: 16
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 20 · **开放 PR**: 8 · **已关闭 issue**: 44 · **开放 issue**: 7 · **提交数**: 59
+- **发布数**: 0 · **已合并 PR**: 20 · **开放 PR**: 10 · **已关闭 issue**: 44 · **开放 issue**: 7 · **提交数**: 59
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 7 | 1 | 5 | 0 |
-| last60d | 2026-07-20 | 0 | 12 | 8 | 12 | 7 | 19 |
-| 90d | 2026-06-20 | 0 | 14 | 8 | 21 | 7 | 22 |
-| last180d | 2026-03-22 | 0 | 20 | 8 | 44 | 7 | 49 |
-| 360d | 2025-09-23 | 0 | 20 | 8 | 44 | 7 | 49 |
-| last720d | 2024-09-28 | 0 | 20 | 8 | 44 | 7 | 59 |
+| 30d | 2026-08-21 | 0 | 0 | 9 | 0 | 4 | 0 |
+| last60d | 2026-07-22 | 0 | 10 | 10 | 12 | 7 | 12 |
+| 90d | 2026-06-22 | 0 | 14 | 10 | 21 | 7 | 20 |
+| last180d | 2026-03-24 | 0 | 20 | 10 | 44 | 7 | 49 |
+| 360d | 2025-09-25 | 0 | 20 | 10 | 44 | 7 | 49 |
+| last720d | 2024-09-30 | 0 | 20 | 10 | 44 | 7 | 59 |
 
 ## 改进这些数据
 
@@ -57,4 +57,4 @@ gemini-web2api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:23:21Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:38:46Z._

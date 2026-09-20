@@ -4,7 +4,7 @@
 
 Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
 
-![gemini-web2api](https://repo.x-cmd.io/gemini-web2api.svg)
+[![x-cmd/install — gemini-web2api Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gemini-web2api.svg)](https://x-cmd.com/install/gemini-web2api)
 
 ## Install
 
@@ -31,22 +31,22 @@ Total: **4,317** lines of code across **17** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,268 · **Forks**: 708 · **Open issues**: 51 · **Contributors**: 16
+- **Stars**: 3,285 · **Forks**: 714 · **Open issues**: 51 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 20 · **Open PRs**: 8 · **Closed issues**: 44 · **Open issues**: 7 · **Commits**: 59
+- **Releases**: 0 · **Merged PRs**: 20 · **Open PRs**: 10 · **Closed issues**: 44 · **Open issues**: 7 · **Commits**: 59
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 7 | 1 | 5 | 0 |
-| last60d | 2026-07-20 | 0 | 12 | 8 | 12 | 7 | 19 |
-| 90d | 2026-06-20 | 0 | 14 | 8 | 21 | 7 | 22 |
-| last180d | 2026-03-22 | 0 | 20 | 8 | 44 | 7 | 49 |
-| 360d | 2025-09-23 | 0 | 20 | 8 | 44 | 7 | 49 |
-| last720d | 2024-09-28 | 0 | 20 | 8 | 44 | 7 | 59 |
+| 30d | 2026-08-21 | 0 | 0 | 9 | 0 | 4 | 0 |
+| last60d | 2026-07-22 | 0 | 10 | 10 | 12 | 7 | 12 |
+| 90d | 2026-06-22 | 0 | 14 | 10 | 21 | 7 | 20 |
+| last180d | 2026-03-24 | 0 | 20 | 10 | 44 | 7 | 49 |
+| 360d | 2025-09-25 | 0 | 20 | 10 | 44 | 7 | 49 |
+| last720d | 2024-09-30 | 0 | 20 | 10 | 44 | 7 | 59 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for gemini-web2api lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:23:20Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:38:45Z._
